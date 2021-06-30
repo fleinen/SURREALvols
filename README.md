@@ -42,7 +42,7 @@ git clone https://github.com/fleinen/SURREALvols.git
 ```
 
 ### Download SMPL
-Register at [https://smpl.is.tue.mpg.de/](https://smpl.is.tue.mpg.de/) and [https://psfiles.is.tuebingen.mpg.de/downloads/smpl/SMPL_python_v-1-0-0-zip](Download version 1.0.0 for Python 2.7 (10 shape PCs)). Unpack the file and copy the folder `smpl` to the root of this repository.The folder structure should look like this:
+Register at [smpl.is.tue.mpg.de](https://smpl.is.tue.mpg.de/) and [download version 1.0.0 for Python 2.7 (10 shape PCs)](https://psfiles.is.tuebingen.mpg.de/downloads/smpl/SMPL_python_v-1-0-0-zip). Unpack the file and copy the folder `smpl` to the root of this repository.The folder structure should look like this:
 
 ```
 +-- smpl
