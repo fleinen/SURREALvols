@@ -1,0 +1,5 @@
+chumpy==0.70
+numpy==1.16.6
+opencv-python==4.2.0.32
+scipy==1.2.3
+six==1.16.0
