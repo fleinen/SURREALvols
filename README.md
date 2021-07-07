@@ -1,8 +1,6 @@
 # SURREALvols
 
-**Paper:** VolNet: Estimating Human Body Part Volumes from a Single RGB Image
-
-<a href="https://arxiv.org/abs/2107.02259"><img src="https://img.shields.io/badge/arXiv-2107.02259.svg"></a>
+**Paper:** [VolNet: Estimating Human Body Part Volumes from a Single RGB Image](https://arxiv.org/abs/2107.02259)
 
 The files in this repository add information about body part volumes and the person's body height to the SURREAL dataset. 
 
