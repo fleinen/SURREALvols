@@ -2,7 +2,7 @@
 
 **Paper:** VolNet: Estimating Human Body Part Volumes from a Single RGB Image
 
-<a href="https://arxiv.org/abs/2008.XXX"><img src="https://img.shields.io/badge/arXiv-2008.XXX.svg"></a>
+<a href="https://arxiv.org/abs/2107.02259"><img src="https://img.shields.io/badge/arXiv-2107.02259.svg"></a>
 
 The files in this repository add information about body part volumes and the person's body height to the SURREAL dataset. 
 
@@ -78,7 +78,7 @@ Please cite if you use our code.
   author      = {Leinen, Fabian and Cozzolino, Vittorio and Sch\"{o}n, Torsten},
   title       = {VolNet: Estimating Human Body Part Volumes from a Single RGB Image},
   year        = {2021}
-  note        = {preprint on arXiv at \url{XXX}}
+  note        = {preprint on arXiv at \url{https://arxiv.org/abs/2107.02259}}
 }
 
 ```
